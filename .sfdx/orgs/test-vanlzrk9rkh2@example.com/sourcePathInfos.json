@@ -1,0 +1,215 @@
+[
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547049368401,
+            "changeTime": 1547049368401,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547049368402,
+            "changeTime": 1547049368402,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547049368409,
+            "changeTime": 1547049368409,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547051787317,
+            "changeTime": 1547051787317,
+            "contentHash": "81ef95a534d0a1d370c1ac71dbd72fb2be64b3f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547051787371,
+            "changeTime": 1547051787371,
+            "contentHash": "9f0e71740fb121cb1401b7bb81f4289c4db6e86e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.auradoc",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547051787367,
+            "changeTime": 1547051787367,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1547052130269,
+            "changeTime": 1547052130269,
+            "contentHash": "fa58d7d4f6751fd8f67833a0e699a7f78f14e2a4"
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547052130216,
+            "changeTime": 1547052130216,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1547052130239,
+            "changeTime": 1547052130239,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.design",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547051787372,
+            "changeTime": 1547051787372,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.svg",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLC.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547051787364,
+            "changeTime": 1547051787364,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLCController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLCController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1547052130258,
+            "changeTime": 1547052130258,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLCHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLCHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1547052130251,
+            "changeTime": 1547052130251,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLCRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest\\force-app\\main\\default\\aura\\testLC\\testLCRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1547052130230,
+            "changeTime": 1547052130230,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest",
+        {
+            "sourcePath": "C:\\Users\\siddartha.sarma.b\\Desktop\\SFDX Projects\\ProdTest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547050354596,
+            "changeTime": 1547050354596,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
