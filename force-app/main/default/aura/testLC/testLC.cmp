@@ -1,4 +1,5 @@
 <aura:component>
     <h1>Hello World VS Code</h1>
     <h2>This is updated in Dev Console</h2>
+    <h2>This is updated in vs code</h2>
 </aura:component>
